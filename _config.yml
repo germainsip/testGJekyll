@@ -1,17 +1,17 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: Gtest
+subtitle: Un test avec Jekyll et devlopr
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  Un test avec Jekyll et devlopr
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: About Me
+    - text: A propos
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
+    - text: Galerie
       url: /gallery
     - text: Shop
       url : /shop
@@ -25,8 +25,8 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hello, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.
+author: Germain SIPIERE
+author_bio: Salut moi c'est Germain
 author_email: "johndoe@gmail.com"
 author_location: India
 author_website_url: "http://johndoe.com"
